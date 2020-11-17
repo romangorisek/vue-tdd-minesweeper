@@ -3,6 +3,9 @@
 ## Specs
 
 - Dynamic mine board => width, height, num of mines can be set
+  - 30 x 16 - 99
+  - 16 x 16 - 40
+  - 9 x 9 - 10
 - Mines are randomly set on board
 - Play options
   - left click - reveal the tile
